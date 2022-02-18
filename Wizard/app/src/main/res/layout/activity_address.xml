@@ -53,6 +53,7 @@
             android:hint="@string/edit_address"
             android:inputType="textPersonName"
             android:minHeight="48dp"
+            android:onClick="Next"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView" />

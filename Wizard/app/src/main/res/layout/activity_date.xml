@@ -52,6 +52,8 @@
             android:ems="10"
             android:hint="@string/edit_date"
             android:inputType="date"
+            android:minHeight="48dp"
+            android:onClick="Next"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
