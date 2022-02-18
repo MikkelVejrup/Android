@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wizard</string>
+    <string name="edit_name">Enter Name</string>
+    <string name="edit_address">Enter address</string>
+    <string name="edit_date">Enter date of birth</string>
+
+</resources>
